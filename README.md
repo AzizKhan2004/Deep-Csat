@@ -1,2 +1,2 @@
 # Deep-Csat
-DeepCSAT is a machine learning and deep learning project designed to predict Customer Satisfaction Score (CSAT) for e-commerce customer support interactions. The project analyzes operational data, agent performance metrics, and customer feedback to estimate satisfaction levels and generate insights that help improve service quality.
+DeepCSAT is a Machine Learning and Deep Learning project developed to predict Customer Satisfaction Scores (CSAT) for e-commerce customer support interactions. By analyzing customer feedback, agent performance metrics, and operational data, the system accurately estimates satisfaction levels and provides actionable insights to enhance customer service quality and operational efficiency.
